@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: SpringOauth2Demo
